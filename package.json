@@ -1,7 +1,7 @@
 {
   "name": "my-react-pr",
-  "version": "1.0.6",
-  "description": "",
+  "version": "1.0.7",
+  "description": "🚀 CLI tool to create a production-ready React app with Vite, Tailwind CSS, React Router, Redux, Context API, and shadcn/ui pre-configured",
   "main": "index.js",
   "type": "module",
   "files": [
@@ -20,8 +20,33 @@
     "type": "git",
     "url": "git+https://github.com/shivam-yadav2/my-react-pr.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react",
+    "vite",
+    "tailwindcss",
+    "react-router",
+    "redux",
+    "redux-toolkit",
+    "shadcn",
+    "shadcn-ui",
+    "context-api",
+    "cli",
+    "boilerplate",
+    "template",
+    "react-app",
+    "create-react-app",
+    "react-cli",
+    "react-starter",
+    "react-template",
+    "react-boilerplate",
+    "vite-template",
+    "tailwind-template",
+    "modern-react"
+  ],
+  "author": {
+    "name": "Shivam Yadav",
+    "url": "https://github.com/shivam-yadav2"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shivam-yadav2/my-react-pr/issues"

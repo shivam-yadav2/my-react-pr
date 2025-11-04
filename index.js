@@ -13,10 +13,10 @@ if (fs.existsSync(targetPath)) {
   process.exit(1);
 }
 
-console.log("🚀 Cloning project...");
+console.log("🚀 Creating project...");
 execSync(`git clone ${repoUrl} ${folderName}`, { stdio: "inherit" });
 
-console.log("✅ Repository cloned successfully!");
+console.log("✅ Project created successfully!");
 console.log(`\nNext steps:`);
 console.log(`  cd ${folderName}`);
 console.log(`  npm install`);

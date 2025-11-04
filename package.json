@@ -1,6 +1,6 @@
 {
   "name": "my-react-pr",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "🚀 CLI tool to create a production-ready React app with Vite, Tailwind CSS, React Router, Redux, Context API, and shadcn/ui pre-configured",
   "main": "index.js",
   "type": "module",

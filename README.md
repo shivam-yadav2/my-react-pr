@@ -9,7 +9,7 @@
 
 **⚡ Create a production-ready React app in seconds with all modern tools pre-configured!**
 
-[Installation](#-installation) • [Features](#-features) • [Usage](#-usage) • [What's Included](#-whats-included) • [Contributing](#-contributing)
+[Installation](#-installation--quick-start) | [Features](#-features) | [Usage](#-usage) | [What's Included](#-whats-included) | [Contributing](#-contributing)
 
 </div>
 

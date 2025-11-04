@@ -1,6 +1,6 @@
 {
   "name": "my-react-pr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -8,7 +8,10 @@
     "index.js"
   ],
   "bin": {
-    "create-myproject": "./index.js"
+    "create-myproject": "index.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

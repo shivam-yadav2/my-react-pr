@@ -8,13 +8,13 @@ You can use this package in two ways:
 
 ### Method 1: Using npx (Recommended - No installation needed)
 ```bash
-npx create-myproject myapp
+npx my-react-pr myapp
 ```
 
 ### Method 2: Install globally first
 ```bash
 npm install -g my-react-pr
-create-myproject myapp
+my-react-pr myapp
 ```
 
 ## What it does
